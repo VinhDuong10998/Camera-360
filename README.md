@@ -7,9 +7,9 @@ Face filters in Opencv
 3. Gao mask
 
 ## Dependencies
-Opencv
-Python
-Dlib
-pyQt
-shape_predictor_68_face_landmarks.dat
+* Opencv
+* Python
+* Dlib
+* pyQt
+* shape_predictor_68_face_landmarks.dat
 
