@@ -1,12 +1,12 @@
-#FaceFilters-Opencv
+# FaceFilters-Opencv
 Face filters in Opencv
 
-##Currently following filters are available:
+## Currently following filters are available:
 1. Dog filter
 2. Thug life
 3. Gao mask
 
-##Dependencies
+## Dependencies
 Opencv
 Python
 Dlib
